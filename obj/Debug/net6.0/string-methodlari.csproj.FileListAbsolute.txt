@@ -1,0 +1,15 @@
+C:\Derslerim\string-methodlari\bin\Debug\net6.0\string-methodlari.exe
+C:\Derslerim\string-methodlari\bin\Debug\net6.0\string-methodlari.deps.json
+C:\Derslerim\string-methodlari\bin\Debug\net6.0\string-methodlari.runtimeconfig.json
+C:\Derslerim\string-methodlari\bin\Debug\net6.0\string-methodlari.dll
+C:\Derslerim\string-methodlari\bin\Debug\net6.0\string-methodlari.pdb
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.csproj.AssemblyReference.cache
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.AssemblyInfoInputs.cache
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.AssemblyInfo.cs
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.csproj.CoreCompileInputs.cache
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.dll
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\refint\string-methodlari.dll
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.pdb
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\string-methodlari.genruntimeconfig.cache
+C:\Derslerim\string-methodlari\obj\Debug\net6.0\ref\string-methodlari.dll
